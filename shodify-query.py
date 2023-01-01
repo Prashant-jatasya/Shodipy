@@ -4,7 +4,7 @@ import requests
 from prettytable import PrettyTable
 
 # Replace YOUR_API_KEY with your actual API key
-api_key = "FyKjwfA8URdLrF4t6JBOiW0pcyy1o3eU"
+api_key = "API KEY HERE"
 api = Shodan(api_key)
 
 # Get the API info
