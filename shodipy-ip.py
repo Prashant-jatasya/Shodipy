@@ -18,7 +18,7 @@ if not re.match(pattern, ip_address):
     sys.exit()
 
 # Set up the Shodan API client
-api_key = "FyKjwfA8URdLrF4t6JBOiW0pcyy1o3eU"
+api_key = "API KEY HERE"
 api = shodan.Shodan(api_key)
 
 try:
